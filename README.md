@@ -79,5 +79,11 @@ Here you can find a list of our past workshops, including the respective noteboo
 - 2024/09/11: (Luca Marconato) scverse conference workshop [notebooks](https://github.com/PMBio/spatialdata-workshops/releases/tag/20240911_scverse_workshop) [slides](https://docs.google.com/presentation/d/1YCzs5vI-D4flw4_8DQZCggoyltKuAvBjte8we7t1NrQ/edit?usp=sharing)
 - 2024/09/25: (Wouter-Michiel Vierdag, Luca Marconato) EBI 'Advances in spatial omics' webinar series; (Luca Marconato) FoG Live [notebooks](https://github.com/PMBio/spatialdata-workshops/releases/tag/20240925_ebi_fog_live) [slides](https://docs.google.com/presentation/d/18fL7Gul8HBEkbyGpf1zmHHvZnPplwCPpwJXCJLoJA0Q/edit#slide=id.g2d2bb7b9221_0_0)
 - 2024/10/22: (Luca Marconato) BIOINFO 2024, Gyeongju (South Korea) [notebooks]() [slides](https://docs.google.com/presentation/d/1XBRkkdbUiLBx1Ys02px6Z26KF0smf-P8UFrgUXuX2YM/edit#slide=id.g2d2bb7b9221_0_0)
+- 2025/04/02: GSCN workshop [resources](https://scverse.org/202504_workshop_GSCN/README.html)
+- 2025/04/08: Workshop on GeoPandas and SOPA (not a SpatialData workshop) [resources](https://github.com/quentinblampey/spatialdata-workshops/tree/md_workshop/notebooks/md_workshop)
+- 2025/10/15: AI / ML for the analysis of single-cell spatial transcriptomics [resources](https://ai4singlecell.sciencesconf.org/)
+- 2025/11/13: Spatial omics data analysis with Python at Harvard Medical School [resources](https://github.com/ccb-hms/Spatial-Workshop)
 
-- https://docs.google.com/presentation/d/1XBRkkdbUiLBx1Ys02px6Z26KF0smf-P8UFrgUXuX2YM/edit?usp=sharing
+# Additional Resources
+Other relevant tutorials and materials featuring SpatialData.
+- 2025/05/12: Pasteur course "Advanced Bioimage Analysis with Artificial Intelligence (AI)" - Day 3 materials covering SpatialData, large image handling, and spot detection for RNA imaging [resources](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025/tree/main/Analyst/Day3)
