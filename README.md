@@ -86,6 +86,6 @@ Here you can find a list of our past workshops, including the respective noteboo
 
 # Additional Resources
 In addition to the material we provide, you may consider the following additional workshops:
-- 2024/12/09: (VIB Spatial Catalyst team) Targeted spatial transcriptomics data analysis [notebooks](https://github.com/vibspatial/targeted_transcriptomics_training).
+- 2024/12/09: (VIB Spatial Catalyst team) Targeted spatial transcriptomics data analysis [notebooks](https://github.com/vibspatial/targeted_transcriptomics_training). A hands-on introduction into the analysis of targeted spatial transcriptomics data using the SPArrOW pipeline developed by the Yvan Saeys group (VIB).
 - 2025/05/12: (Marvin Albert) Pasteur course "Advanced Bioimage Analysis with Artificial Intelligence (AI)" - Day 3 materials covering SpatialData, large image handling, and spot detection for RNA imaging [resources](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025/tree/main/Analyst/Day3)
-  A hands-on introduction into the analysis of targeted spatial transcriptomics data using the SPArrOW pipeline developed by the Yvan Saeys group (VIB).
+- 2025/11/19: (Luca Marconato) Workshop on 3D spatial omics data for the 2nd scverse conference [resources](https://github.com/LucaMarconato/3d-spatial-workshop-2025)
