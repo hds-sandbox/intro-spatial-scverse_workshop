@@ -1,9 +1,7 @@
-name: spatialdata-workshop
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
-  - jupyterlab
+  - python
   - ipykernel
   - pip
   - numpy
@@ -13,7 +11,7 @@ dependencies:
   - jupyter
   - jupyter_contrib_nbextensions # for auto-completion 
   - pytest
-  - xarray>=2024.10.0,<2025.01.2
+  - xarray
   - pip:
     # install method 1: latest pip release (recommended)
     - spatialdata
@@ -41,7 +39,7 @@ dependencies:
     # - git+https://github.com/scverse/spatialdata-plot@80c6f7774add354657a1e6b7fed28e162d614584
     #
     # additional packages
-    - spatial-image==1.1.0
+    - spatial-image
     - PyQt5 # for napari
     - lxml_html_clean # for napari
     - jupyter-black
