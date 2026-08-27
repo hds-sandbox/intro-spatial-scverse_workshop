@@ -15,6 +15,7 @@ dependencies:
   - spatialdata-plot
   - squidpy>=1.6.2
   - spatial-image
+  - jupyter_black
   - pip:
     - PyQt5 # for napari
     - lxml_html_clean # for napari
